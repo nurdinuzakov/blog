@@ -61,15 +61,15 @@
             <div class="one_quarter">
                 <h6 class="heading">Posuere suscipit massa</h6>
                 <ul class="nospace clear latestimg">
-                    <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-                    <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-                    <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-                    <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-                    <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-                    <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-                    <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-                    <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
-                    <li><a class="imgover" href="#"><img src="images/demo/100x100.png" alt=""></a></li>
+                    <li><a class="imgover" href="#"><img src="{{ asset('images/demo/100x100.png') }}" alt=""></a></li>
+                    <li><a class="imgover" href="#"><img src="{{ asset('images/demo/100x100.png') }}" alt=""></a></li>
+                    <li><a class="imgover" href="#"><img src="{{ asset('images/demo/100x100.png') }}" alt=""></a></li>
+                    <li><a class="imgover" href="#"><img src="{{ asset('images/demo/100x100.png') }}" alt=""></a></li>
+                    <li><a class="imgover" href="#"><img src="{{ asset('images/demo/100x100.png') }}" alt=""></a></li>
+                    <li><a class="imgover" href="#"><img src="{{ asset('images/demo/100x100.png') }}" alt=""></a></li>
+                    <li><a class="imgover" href="#"><img src="{{ asset('images/demo/100x100.png') }}" alt=""></a></li>
+                    <li><a class="imgover" href="#"><img src="{{ asset('images/demo/100x100.png') }}" alt=""></a></li>
+                    <li><a class="imgover" href="#"><img src="{{ asset('images/demo/100x100.png') }}" alt=""></a></li>
                 </ul>
             </div>
             <!-- ################################################################################################ -->
